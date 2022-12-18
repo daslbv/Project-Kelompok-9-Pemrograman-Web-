@@ -9,7 +9,7 @@ if( !isset($_SESSION["login"]) ) {
 ?>
 <html>
 <head>
-	<title>Website Data SMA</title>
+	<title>Website Data SISWA SISWI SMA</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 </head>
 <body>
@@ -27,7 +27,7 @@ if( !isset($_SESSION["login"]) ) {
 				<th>NIS</th>
 				<th>Nama</th>
 				<th>Jurusan</th>
-				<th>No. Telp</th>
+				<th>No Hp</th>
 				<th>Alamat</th>
 				<th>Action</th>
 			</tr>
